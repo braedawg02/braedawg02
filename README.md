@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @braedawg02
 - 👀 I’m interested in Videogames and Modding.
-- 🌱 I’m currently learning JavaScript and C++!
+- 🌱 I’m currently learning MAYA and C#!
 - 📫 How to reach me- (b@cramerfamily.org)
 
 <!---
